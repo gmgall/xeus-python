@@ -8,6 +8,6 @@ dependencies:
   - networkx
   - matplotlib
   - scipy
-  - PyGObject
+  - pycairo
   - pip:
     - hiperwalk

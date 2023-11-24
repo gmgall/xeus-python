@@ -7,5 +7,6 @@ dependencies:
   - networkx
   - matplotlib
   - scipy
+  - ipywidgets
   - pip:
     - https://www2.gmgall.net/hiperwalk-2.0b0-py3-none-any.whl

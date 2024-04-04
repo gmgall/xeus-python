@@ -6,7 +6,7 @@ dependencies:
   - numpy
   - networkx
   - matplotlib
-  - scipy
+  - scipy >=1.11.1
   - ipywidgets
   - pip:
     - ./hiperwalk
